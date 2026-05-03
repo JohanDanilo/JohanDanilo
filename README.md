@@ -77,7 +77,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JohanDanilo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Johan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohanDanilo&theme=tokyonight&hide_border=true" alt="Johan's Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=JohanDanilo&theme=tokyonight&hide_border=true" alt="Johan's Streak Stats" />
 </p>
 
 <p align="center">
