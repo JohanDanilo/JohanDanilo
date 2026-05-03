@@ -2,7 +2,7 @@
 
 ### Systems Engineering Student
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+Johan+Danilo+Serrano;Java+%26+JavaFX+Desktop+Developer;Systems+Engineering+Student+%40+UNA;Check+out+my+projects!&font=Fira+Code&center=true&width=700&height=60&duration=3000&pause=1000&color=00C6FF&vCenter=true&size=22)](https://github.com/JohanDanilo)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+Johan+Danilo+Serrano;Systems+Engineering+Student+%40+UNA;Check+out+my+projects!&font=Fira+Code&center=true&width=700&height=60&duration=3000&pause=1000&color=00C6FF&vCenter=true&size=22)](https://github.com/JohanDanilo)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
 
