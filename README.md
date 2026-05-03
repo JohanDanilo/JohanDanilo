@@ -75,17 +75,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohanDanilo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Johan's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=JohanDanilo&theme=tokyonight&hide_border=true" alt="Johan's Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanDanilo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohanDanilo&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
-![divider](https://github.com/yusufyusie/yusufyusie/raw/main/line.gif)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JohanDanilo&theme=blueberry-duo&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 
