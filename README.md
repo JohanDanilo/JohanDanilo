@@ -65,6 +65,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JohanDanilo&theme=tokyonight" height="165" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JohanDanilo&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JohanDanilo&theme=tokyonight&utcOffset=-6" height="165" />
+</p>
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
