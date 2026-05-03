@@ -9,7 +9,7 @@
 ## 💫 About Me
 
 - 🎓 **Systems Engineering Student** at **Universidad Nacional de Costa Rica (UNA)**, Programación II, 2026.
-- ☕ I specialize in **Java desktop development** with **JavaFX 25**, **Maven**, and **MVC architecture**.
+- ☕ I'm learning **Java desktop development** with **JavaFX 25**, **Maven**, and **MVC architecture**.
 - 🎨 I build rich UI experiences using **MaterialFX** and **AtlantaFX**, with a passion for clean, neon-styled interfaces.
 - 🔧 I also work with **C++** for algorithms, data structures, and system-level programming.
 - 🤝 Collaborative team developer — comfortable with **Git workflows**, PRs, and multi-branch strategies.
@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/TU_LINKEDIN_AQUI">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:TU_CORREO@gmail.com">
+  <a href="mailto:johan.serrano.victor@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/JohanDanilo">
