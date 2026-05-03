@@ -53,16 +53,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohanDanilo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=JohanDanilo&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=JohanDanilo&theme=tokyonight&hide_border=true&card_width=500" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanDanilo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohanDanilo&theme=tokyo-night&hide_border=true" height="165" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohanDanilo&theme=tokyo-night&hide_border=true&area=true" width="90%" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" width="100%"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JohanDanilo&theme=tokyonight" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JohanDanilo&theme=tokyonight" height="165" />
+</p>
 
 ## 🏆 GitHub Trophies
 
